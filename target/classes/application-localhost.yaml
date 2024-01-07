@@ -41,7 +41,7 @@ spring:
     init:
       mode: always
   application:
-    name: profile-service
+    name: group-service
   servlet:
     multipart:
       enabled: true
